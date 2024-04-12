@@ -1,9 +1,9 @@
-# [Your Working Group Name]
+# Zooplankton Indicator Working Group
 
-Welcome to the **[Your Working Group Name]** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
+Welcome to the **Zooplankton Indicator Working Group** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
-[Provide a brief overview of your project here. Describe what you aim to achieve, the importance of your project, and its expected impact.]
+Lakes provide critical ecosystem services that are under threat from global environmental change. However, these freshwater ecosystems are underrepresented in biodiversity research relative to marine and terrestrial environments, despite the recognized worldwide biodiversity crisis in freshwater. Zooplankton are microscopic aquatic animals that serve as important metrics of biodiversity in lakes because they are critical food for young fish and consumers of algae. When changing zooplankton diversity alters these ecosystem functions, algae can grow to excess and lead to harmful algae blooms that negatively influence human health, tourism, and property values. We have developed the largest dataset of freshwater zooplankton biodiversity in the world, and will use it to examine how zooplankton assemblages have responded to a changing climate and how such changes are likely to impact lake water quality and ecosystem function. Our dataset contains > 60,000 samples from 289 lakes (34 countries, 6 continents) , with data up to 60 years ago. Drawing from our group’s diverse backgrounds and expertise, we will synthesize zooplankton biodiversity change worldwide and share our results and data.
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
